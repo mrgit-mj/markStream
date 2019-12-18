@@ -1,0 +1,6 @@
+.width {
+    width: 600px;
+    margin: auto;
+    border: 1px solid black;
+    border-top: none
+}
